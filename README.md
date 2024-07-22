@@ -17,11 +17,11 @@ To run this notebook, you will need the following Python packages:
 - `seaborn`
 
 You can install them using pip:
-```bash
 pip install pandas matplotlib numpy seaborn
 
 ## Detailed Analysis
-The project examines various aspects of the Adult income dataset, including:
+This project examines various aspects of the Adult income dataset, including:
+
 - **Correlation Analysis**: Examines the correlation between numerical variables using a correlation matrix and heatmap.
 - **Distribution of Age**: Analyzes the distribution of the age column.
 - **Education and Income Relationship**: Investigates how education level affects income.
@@ -32,11 +32,13 @@ The project examines various aspects of the Adult income dataset, including:
 - **Income Distribution by Class and Sex**: Analyzes income distribution across different classes and sexes.
 
 ## Visualizations
-The project uses data visualization to understand the distribution and relationships within the dataset. Examples include:
-- **Bar Chart:** Distribution of income by age.
-- **Bar Plot:** Relationship between education level and income.
-- **Histogram:** Distribution of age.
-- **Histogram:** Distribution of work class.
+The project uses data visualization to understand the distribution and relationships within the dataset. Examples of visualizations include:
+
+- **Bar Chart**: Shows the distribution of income by age.
+- **Bar Plot**: Visualizes the relationship between education level and income.
+- **Histogram**: Displays the distribution of age.
+- **Histogram**: Shows the distribution of work class.
+
 
 ## Conclusion
 The analysis reveals significant patterns and relationships in the dataset, providing insights into income distribution and factors influencing income levels. The visualizations and detailed analysis contribute to a deeper understanding of the data and its implications.
