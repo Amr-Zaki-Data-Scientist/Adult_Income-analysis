@@ -17,6 +17,7 @@ To run this notebook, you will need the following Python packages:
 - `seaborn`
 
 You can install them using pip:
+```bash
 pip install pandas matplotlib numpy seaborn
 
 ## Detailed Analysis
